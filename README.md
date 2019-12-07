@@ -11,7 +11,7 @@
 > -  - [Open Systems Interconnction Model (OSI Model)](https://en.wikipedia.org/wiki/OSI_model) (Wikipedia)
 
 **What are seven layers**
->   1. Layer 1: Physical Layer
+>   1. [Layer 1: Physical Layer](Layer 1: Physical Layer.md)
 >   2. Layer 2: Data Link Layer
 >   3. Layer 3: Network Layer
 >   4. Layer 4: Transport Layer
